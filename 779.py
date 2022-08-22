@@ -11,7 +11,7 @@
 
 from selenium import webdriver
 driver= webdriver.Chrome("chromedriver.exe")
-TARGET = 'replace me i am usless' #replace the text 'replace me i am useless" with the target email
+TARGET = 'maxc34@educbe.ca' #replace the text 'replace me i am useless" with the target email
 driver.get('https://www.nbc26.com/account/manage-email-preferences')
 
 user_input = driver.find_element_by_id('id_email')
