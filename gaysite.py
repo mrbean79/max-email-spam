@@ -12,7 +12,7 @@
 from selenium import webdriver
 driver= webdriver.Chrome("chromedriver.exe")
 
-username = 'bhjbdh555f' #replace the text 'replace me i am useless" with the username u want, for exemple: DICKLOVER699
+username = 'MaxLovesDick' #replace the text 'replace me i am useless" with the username u want, for exemple: DICKLOVER699
 TARGET = 'jxxibraxx7@baitify.com' #replace the text 'replace me i am useless" with the target email
 driver.get('https://www.adam4adam.com/')
 password = 'azerhd5#'
